@@ -1,0 +1,29 @@
+.user{
+ width: 80%;
+  margin: 0 auto;
+}
+.form{
+ margin-top: 100px;
+ padding-bottom: 50px;
+ margin-left: 100px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+input{
+ background-color: darkgray;
+ width: 500px;
+ height: 30px;
+}
+.submit{
+ width: 80px;
+ height: 38px;
+ background-color: red;
+ margin-left: 20px;
+}
+.list{
+ text-align: center;
+ list-style: none;
+ line-height: 2rem;
+
+}
